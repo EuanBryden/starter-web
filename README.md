@@ -1,12 +1,12 @@
 # Starter Web Repo
 
-##Introduction
+## Introduction
 This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-##Deployment
+## Deployment
 
-##What is this?
+## What is this?
 
 Sample website with plenty of files for demos
